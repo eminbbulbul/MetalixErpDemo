@@ -11,9 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Business\Operations\" />
     <Folder Include="Common\DTO\" />
     <Folder Include="Entity\" />
-    <Folder Include="Business\" />
     <Folder Include="Repository\" />
   </ItemGroup>
 
